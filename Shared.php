@@ -11,6 +11,7 @@ $highscore = $scorex[0];
 <meta property="og:site_name" content="KongRuksiam Studio"/>
 <meta property="og:description" content="<?echo $highscore;?> is mine new highscore on Animal Crush!"/>
 </head>
+<meta http-equiv="refresh" content="0;URL=https://kongruksiamblogger.blogspot.com/" />
 <body>
 </body>
 </html>
