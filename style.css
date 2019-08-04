@@ -1,0 +1,13 @@
+.product_drag_area{
+  width: 600px;
+  height: 200px;
+  border: 2px dashed #ccc;
+  color:#ccc;
+  line-height: 200px;
+  text-align: center;
+  font-size: 24px;
+}
+.product_drag_over{
+  color: #000;
+  border-color:#000;
+}
